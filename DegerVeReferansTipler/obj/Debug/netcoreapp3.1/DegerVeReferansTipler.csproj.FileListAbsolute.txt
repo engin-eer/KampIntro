@@ -10,3 +10,4 @@ C:\Users\ngn\source\repos\KampIntro\DegerVeReferansTipler\obj\Debug\netcoreapp3.
 C:\Users\ngn\source\repos\KampIntro\DegerVeReferansTipler\obj\Debug\netcoreapp3.1\DegerVeReferansTipler.dll
 C:\Users\ngn\source\repos\KampIntro\DegerVeReferansTipler\obj\Debug\netcoreapp3.1\DegerVeReferansTipler.pdb
 C:\Users\ngn\source\repos\KampIntro\DegerVeReferansTipler\obj\Debug\netcoreapp3.1\DegerVeReferansTipler.genruntimeconfig.cache
+C:\Users\ngn\source\repos\KampIntro\DegerVeReferansTipler\obj\Debug\netcoreapp3.1\DegerVeReferansTipler.csprojAssemblyReference.cache
