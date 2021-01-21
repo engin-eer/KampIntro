@@ -1,0 +1,13 @@
+C:\Users\ngn\source\repos\KampIntro\Donguler\bin\Debug\netcoreapp3.1\Donguler.exe
+C:\Users\ngn\source\repos\KampIntro\Donguler\bin\Debug\netcoreapp3.1\Donguler.deps.json
+C:\Users\ngn\source\repos\KampIntro\Donguler\bin\Debug\netcoreapp3.1\Donguler.runtimeconfig.json
+C:\Users\ngn\source\repos\KampIntro\Donguler\bin\Debug\netcoreapp3.1\Donguler.runtimeconfig.dev.json
+C:\Users\ngn\source\repos\KampIntro\Donguler\bin\Debug\netcoreapp3.1\Donguler.dll
+C:\Users\ngn\source\repos\KampIntro\Donguler\bin\Debug\netcoreapp3.1\Donguler.pdb
+C:\Users\ngn\source\repos\KampIntro\Donguler\obj\Debug\netcoreapp3.1\Donguler.csprojAssemblyReference.cache
+C:\Users\ngn\source\repos\KampIntro\Donguler\obj\Debug\netcoreapp3.1\Donguler.AssemblyInfoInputs.cache
+C:\Users\ngn\source\repos\KampIntro\Donguler\obj\Debug\netcoreapp3.1\Donguler.AssemblyInfo.cs
+C:\Users\ngn\source\repos\KampIntro\Donguler\obj\Debug\netcoreapp3.1\Donguler.csproj.CoreCompileInputs.cache
+C:\Users\ngn\source\repos\KampIntro\Donguler\obj\Debug\netcoreapp3.1\Donguler.dll
+C:\Users\ngn\source\repos\KampIntro\Donguler\obj\Debug\netcoreapp3.1\Donguler.pdb
+C:\Users\ngn\source\repos\KampIntro\Donguler\obj\Debug\netcoreapp3.1\Donguler.genruntimeconfig.cache
